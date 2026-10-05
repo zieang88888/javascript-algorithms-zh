@@ -18,6 +18,8 @@
 
 ---
 
+⭐ 如果对你有帮助，点个 Star 支持中文开源
+
 ## ✨ 为什么值得收藏
 
 - **覆盖 120+ 算法/结构**：链表/栈/队列/哈希/堆/树/图/排序/搜索/字符串/数学/DP/回溯/加密……一网打尽；
@@ -605,3 +607,16 @@
 ---
 
 <p align="center">made with ❤️ by <a href="https://github.com/zieang88888">zieang88888</a> · 高星仓库中文解读系列第 12 弹</p>
+
+## 姊妹项目
+
+中文开源矩阵，一网打尽开发者的知识库：
+
+- [zhskills · 中文技能库](https://github.com/zieang88888/zhskills)
+- [awesome-ai-tools-zh · AI 工具导航](https://github.com/zieang88888/awesome-ai-tools-zh)
+- [free-programming-books-zh · 编程书籍大全](https://github.com/zieang88888/free-programming-books-zh)
+- [system-design-zh · 系统设计面试](https://github.com/zieang88888/system-design-zh)
+- [awesome-python-zh · Python 生态导航](https://github.com/zieang88888/awesome-python-zh)
+- [ohmyzsh-zh · 终端效率神器](https://github.com/zieang88888/ohmyzsh-zh)
+- [llm-course-zh · LLM 课程导航](https://github.com/zieang88888/llm-course-zh)
+- [design-resources-for-developers-zh · 设计资源大全](https://github.com/zieang88888/design-resources-for-developers-zh)
